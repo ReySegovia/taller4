@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/src/java/Conexion/Conexion.java</file>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/src/java/Interfaces/NewInterface.java</file>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/src/java/Controlador/NewServlet.java</file>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/web/index.jsp</file>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/src/java/Interfaces/CRUD.java</file>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/src/java/Modelos/ImplementacionDAO.java</file>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/web/Vistas/lista.jsp</file>
+            <file>file:/Users/reysegovia/NetBeansProjects/CRUD/src/java/Modelos/Libros.java</file>
+        </group>
+    </open-files>
+</project-private>
